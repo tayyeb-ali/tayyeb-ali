@@ -4,7 +4,8 @@
 </div>
 
 <div align="center" width="50">
-![Welcome!](https://github.com/tayyeb-ali/tayyeb-ali/blob/main/welcome.gif)
+![](welcome.gif)
+<!-- ![Welcome!](https://github.com/tayyeb-ali/tayyeb-ali/blob/main/welcome.gif) -->
 <!-- <img src="https://imgur.com/a/BCYXB27" alt="Welcome!" width="300"/> -->
 </div>
 
