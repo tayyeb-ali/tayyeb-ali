@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3> 👨‍💻 About Me </h3>
 
   - 🔭 &nbsp; I’m currently learning about how data is stored and handled whilst pursuing certifications in security.
   - 🎓 &nbsp; Studied Computer Science, Computer Programming and Cyber Security.
