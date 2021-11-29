@@ -5,7 +5,8 @@
 
 <div align="center" width="50">
   <!-- ![Welcome!](https://github.com/tayyeb-ali/tayyeb-ali/blob/main/welcome.gif) -->
-  <img src="https://giphy.com/gifs/LewQwZEM75SUGB1Qw5" alt="Welcome!" width="300"/>
+  
+  <img src="https://media.giphy.com/media/LewQwZEM75SUGB1Qw5/giphy.gif" alt="Welcome!" width="300"/>
 </div>
 
 
