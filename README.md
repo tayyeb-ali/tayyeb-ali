@@ -24,7 +24,7 @@
   - 💻 &nbsp; Python | JavaScript | Java | C++ 
   - 🌐 &nbsp; HTML | JavaScript | PHP | CSS | Bootstrap 
   - 🛢 &nbsp; MySQL | BigQuery 
-  - 📈 &nbsp; (TBA)
+  - 📈 &nbsp; (WIP)
   - 🔧 &nbsp; Visual Studio Code | Git 
 
   
