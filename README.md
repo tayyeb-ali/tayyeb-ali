@@ -4,7 +4,6 @@
 </div>
 
 <div align="center" width="50">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/lC8eSZq" data-context="false" ><a href="//imgur.com/a/lC8eSZq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<img src="https://imgur.com/a/lC8eSZq" alt="Welcome!" width="300"/>
+<img src="https://imgur.com/g85cWA4" alt="Welcome!" width="300"/>
 </div>
 
