@@ -3,10 +3,13 @@
 </div>
 
 <div align="center" width="50">
-  <img src="https://media.giphy.com/media/LewQwZEM75SUGB1Qw5/giphy.gif" alt="Welcome!" width="300"/>
+  <kbd><img src="https://media.giphy.com/media/LewQwZEM75SUGB1Qw5/giphy.gif" alt="Welcome!" width="300"/></kbd>
 </div>
 
+
 <div align="left">
+
+
   <h3> 👨‍💻 About Me </h3>
 
   - 🔭 &nbsp; I’m currently learning about how data is stored and handled whilst pursuing certifications in security.
@@ -14,17 +17,19 @@
   - 💼 &nbsp; Data Analyst and Software Developer.
   - 🌱 &nbsp; Cyber Security and Information Security Enthusiast!
   - 🎮 &nbsp; I enjoy playing video games and reading books.
+    
 
   <h3>🛠 Technologies Stack</h3>
-
+  
   - 💻 &nbsp; Python | JavaScript | Java | C++ 
   - 🌐 &nbsp; HTML | JavaScript| PHP | CSS | Bootstrap 
   - 🛢 &nbsp; MySQL | BigQuery 
   - 🔧 &nbsp; Visual Studio Code | Git 
   - 📈 &nbsp; (WIP)
-</div>
 
-<br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyeb-ali&cache_seconds=1800&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=363640" alt="Tayyeb's Most Used Languages">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tayyeb-ali&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=363640" alt="Tayyeb's Github Stats">
-</br>
+  
+</div>
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyeb-ali&card_width=430&langs_count=5&cache_seconds=1800&theme=chartreuse-dark&bg_color=DEG,111111,161624&title_color=16c60c&border_color=363640" alt="Tayyeb's Most Used Languages">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tayyeb-ali&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=363640" alt="Tayyeb's Github Stats">
+    
