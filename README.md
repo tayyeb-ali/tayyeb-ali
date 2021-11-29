@@ -30,6 +30,7 @@
   
 </div>
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyeb-ali&card_width=430&langs_count=5&cache_seconds=1800&theme=chartreuse-dark&bg_color=DEG,111111,161624&title_color=16c60c&border_color=363640" alt="Tayyeb's Most Used Languages">
+<br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyeb-ali&card_width=430&langs_count=5&cache_seconds=1800&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=363640" alt="Tayyeb's Most Used Languages">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tayyeb-ali&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=363640" alt="Tayyeb's Github Stats">
-    
+</br>
