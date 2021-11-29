@@ -10,7 +10,7 @@
   <h3> 👨‍💻 About Me </h3>
 
   - 🔭 &nbsp; I’m currently learning about how data is stored and handled whilst pursuing certifications in security.
-  - 🎓 &nbsp; Studied Computer Science, Computer Programming and Cyber Security.
+  - 🎓 &nbsp; Studied Computer Science, Computer Programming and Cyber Security from the University of Warwick.
   - 💼 &nbsp; Data Analyst and Software Developer.
   - 🌱 &nbsp; Cyber Security and Information Security Enthusiast!
   - 🎮 &nbsp; I enjoy playing video games and reading books.
