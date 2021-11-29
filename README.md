@@ -17,8 +17,8 @@
 
   <h3>🛠 Technologies Stack</h3>
 
-  - 💻 &nbsp; Python | Java | C++ 
-  - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+  - 💻 &nbsp; Python | JavaScript | Java | C++ 
+  - 🌐 &nbsp; HTML | JavaScript| PHP | CSS | Bootstrap 
   - 🛢 &nbsp; MySQL | BigQuery 
   - 🔧 &nbsp; Visual Studio Code | Git 
   - 📈 &nbsp; (WIP)
