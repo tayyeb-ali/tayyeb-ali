@@ -4,6 +4,6 @@
 </div>
 
 <div align="center" width="50">
-<img src="https://imgur.com/g85cWA4" alt="Welcome!" width="300"/>
+<img src="https://imgur.com/a/BCYXB27" alt="Welcome!" width="300"/>
 </div>
 
