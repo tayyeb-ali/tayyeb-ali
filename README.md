@@ -23,5 +23,5 @@
   - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
   - 🛢 &nbsp; MySQL | BigQuery 
   - 🔧 &nbsp; Visual Studio Code | Git 
-  - 🖥 &nbsp; (WIP)
+  - 📈 &nbsp; (WIP)
 </div>
