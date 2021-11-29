@@ -25,5 +25,8 @@
 </div>
 
 <br>
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyeb-ali&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&line_height=20" alt="Tayyeb's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyeb-ali&theme=chartreuse-dark" alt="Tayyeb's Most Used Languages">
+
 </br>
