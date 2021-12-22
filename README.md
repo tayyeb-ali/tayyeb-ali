@@ -23,7 +23,7 @@
   
   - 💻 &nbsp; Python | JavaScript | Java | C++ 
   - 🌐 &nbsp; HTML | JavaScript | PHP | CSS | Bootstrap 
-  - 🛢 &nbsp; MySQL | Google BigQuery 
+  - 🛢 &nbsp;  MySQL | Google BigQuery 
   - 📈 &nbsp; Tableau | Google DataStudio 
   - 🔧 &nbsp; Visual Studio Code | Git 
 
