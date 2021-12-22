@@ -30,7 +30,7 @@
   
 </div>
   
-<!-- <br>
+<br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyeb-ali&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=444C56" alt="Tayyeb's Most Used Languages">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tayyeb-ali&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=444C56" alt="Tayyeb's GitHub Stats">
-</br> -->
+</br>
