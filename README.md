@@ -6,9 +6,7 @@
   <kbd><img src="https://media.giphy.com/media/LewQwZEM75SUGB1Qw5/giphy.gif" alt="Welcome!" width="300"/></kbd>
 </div>
 
-
 <div align="left">
-
 
   <h3> 👨‍💻 About Me </h3>
 
