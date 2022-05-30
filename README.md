@@ -10,8 +10,8 @@
 
   <h3> 👨‍💻 About Me </h3>
 
-  - 🔭 &nbsp; I’m currently learning about how data is stored and handled whilst pursuing certifications in security.
-  - 🎓 &nbsp; Studied Computer Science, Programming, and Cyber Security from the University of Warwick.
+  - 🔭 &nbsp; I’m currently learning about how data is handled and stored in the real-world.
+  - 🎓 &nbsp; Studied Computer Science from the University of Warwick.
   - 💼 &nbsp; Working as a Data Analyst currently.
   - 🌱 &nbsp; Cyber Security and Information/Data Security Enthusiast!
   - 🎮 &nbsp; I enjoy playing video games and reading books.
@@ -19,10 +19,10 @@
 
   <h3>🛠 Technologies Stack</h3>
   
-  - 💻 &nbsp; Python | JavaScript | Java | C++ 
+  - 💻 &nbsp; Python | JavaScript | SQL | Java | C++ 
   - 🌐 &nbsp; HTML | JavaScript | PHP | CSS | Bootstrap 
   - 🛢 &nbsp;  MySQL | Google BigQuery | dbt | Airflow
-  - 📈 &nbsp; Tableau | Google DataStudio 
+  - 📈 &nbsp; Tableau | Google DataStudio | Datadog
   - 🔧 &nbsp; Visual Studio Code | Git 
 
   
