@@ -11,24 +11,19 @@
 
   <h3> 👨‍💻 About Me </h3>
 
-  - 🔭 &nbsp; I’m currently learning about how data is generated, transformed, and stored in the real-world.
+  - 🔭 &nbsp; I’m currently learning about how data is produced, transformed, processed, and stored in the real-world.
   - 🎓 &nbsp; Studied Computer Science from the University of Warwick.
-  - 💼 &nbsp; Working as an Analytics Engineer currently.
+  - 💼 &nbsp; Currently working as an Analytics Engineer in Tech.
   - 🌱 &nbsp; Data/Analytics Engineering Enthusiast!
   - 🎮 &nbsp; I enjoy playing video games and reading books.
     
 
   <h3>🛠 Tech Stack</h3>
   
-  - 💻 &nbsp; Python | SQL | GoLang | Git
-  - 🌐 &nbsp; HTML | JavaScript | PHP | CSS | Bootstrap 
-  - 🛢 &nbsp; MySQL | Google Cloud Platform | Google BigQuery | Apache Airflow | dbt
-  - 📈 &nbsp; Tableau | Google DataStudio | DataDog
+  - 🧑🏽‍💻 &nbsp; Python | SQL | GoLang | Java | Git
+  - 🌐 &nbsp; HTML | JavaScript | PHP | CSS
+  - 🛢 &nbsp; MySQL | Google Cloud Platform | Google BigQuery | Apache Airflow | Apache Flink | Apache/Py Spark | dbt
+  - 📈 &nbsp; Tableau | Google DataStudio | DataDog | Grafana | MonteCarlo
 
   
 </div>
-<!--   
-<br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyeb-ali&cache_seconds=1800&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=444C56" alt="Tayyeb's Most Used Languages">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tayyeb-ali&cache_seconds=1800&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,161624,111111&title_color=16c60c&border_color=444C56" alt="Tayyeb's GitHub Stats">
-</br> -->
